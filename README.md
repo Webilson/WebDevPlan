@@ -24,7 +24,7 @@ Also linux because I’m doing it in linux and idk sometimes if you're on window
 
 # less geneneral stoff
 
-5. Um now figure out how to get a webdev job.
+5. Um now figure out how to get a webdev job. UM DO ODIN'S COURSE FIRST TO SEE WHAT THAT LAST SECTION HAS.
    1. Specialize. Learn an in-demand webdev skill. Um just google “in demand webdev skills”
    2. Mock interview lmao.
    3. Freelance experience??
