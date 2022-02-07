@@ -6,7 +6,7 @@ basic computer proficiency is assumed.
 
 Also linux because I’m doing it in linux and idk sometimes if you're on windows you have to do extra stuff with wsl and it sounds like a hassle. So just deal with the initial hassle of dual booting or using a VM on your current windows device and ye, then you’re good. Or get a chromebook or something idk.
 
-# Generals. Stuff every web developer should know probably
+# General stuff
 
 1. Learn foundational programming stuff.
    1. Do [CS50x](https://cs50.harvard.edu/x) to get a high level overview of all sort of computer things
@@ -22,7 +22,7 @@ Also linux because I’m doing it in linux and idk sometimes if you're on window
       - [Shop Talk show project ideas](https://github.com/melanierichards/just-build-websites)
       - UM PROBABLY PUT MORE
 
-# less geneneralklkelfske
+# less geneneral stoff
 
 5. Um now figure out how to get a webdev job.
    1. Specialize. Learn an in-demand webdev skill. Um just google “in demand webdev skills”
