@@ -19,7 +19,7 @@ Also linux because I’m doing it in linux and idk sometimes if you're on window
    1. Do Colt Steele's complete webdev course. Not sponsored lmao. You maaay be wondering why we do this after we already did the odin project. The first like 30 sections of this course is html, css, and javascript, which we've already done. Welllllll firstly, [according to a few random internet people](https://www.reddit.com/r/learnprogramming/comments/m2fjfp/colt_steeles_the_web_developer_bootcamp_2021_is/), this course is pretty advanced and you should probably already know the basics before tackling it. Second, [spaced repetition](https://www.gwern.net/Spaced-repetition#literature-review). You're doing this after the advanced computer skills course, so it's been at least a few weeks.
    2. DO SOME PRACTICE. Uh just do at least 3 from these lists or do your own projects if you already have your own ideas:
       - [Shop Talk show project ideas](https://github.com/melanierichards/just-build-websites)
-      - UM PROBABLY PUT MORE SOURCES
+      - UM PROBABLY PUT MORE
 
 # Specific to YOU 👇👇 ... 👇👇 (imagine an absurd amount of point emojis)
 
