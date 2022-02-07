@@ -22,7 +22,7 @@ Also linux because I’m doing it in linux and idk sometimes if you're on window
       - [Shop Talk show project ideas](https://github.com/melanierichards/just-build-websites)
       - UM PROBABLY PUT MORE
 
-# less geneneral stoff
+# less general stoff
 
 5. Um now figure out how to get a webdev job. UM DO ODIN'S COURSE FIRST TO SEE WHAT THAT LAST SECTION HAS.
    1. Specialize. Learn an in-demand webdev skill. Um just google “in demand webdev skills”
