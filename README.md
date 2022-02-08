@@ -10,7 +10,7 @@ Also linux because I’m doing it in linux and idk sometimes if you're on window
 
 1. Learn foundational programming stuff.
    1. Do [CS50x](https://cs50.harvard.edu/x) to get a high level overview of all sort of computer things
-   2. Learn a programming language. Do [py4e](https://www.py4e.com/). Why not javascript you ask!??!?!?! Because the main purpose of learning a programming language right now is to understand general programming concepts, and py4e is the best free programming course I could find. A lot of the javascript ones have a free and pro version and I don't like that :{
+   2. Learn a programming language. Do [py4e](https://www.py4e.com/).
 2. Learn Basic Webdev Things. Just do [the odin project foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 3. Learn advanced computer stoff.
    1. Basics of a bunch of advanced essential computer science topics https://missing.csail.mit.edu/
