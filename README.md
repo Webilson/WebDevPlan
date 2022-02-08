@@ -20,12 +20,9 @@ Also linux because I’m doing it in linux and idk sometimes if you're on window
    2. DO SOME PRACTICE. Uh just do at least 3 from these lists or do your own projects if you already have your own ideas:
       - [Shop Talk show project ideas](https://github.com/melanierichards/just-build-websites)
       - UM PROBABLY PUT MORE
-
-Do FreeCodeCamp's Web dev stuff for review if you want. [spaced repetition good 👍👍👍👍👍👍👍](https://www.gwern.net/Spaced-repetition#literature-review)
-
-# less general stoff
-
-5. Um now figure out how to get a webdev job lmao.
+5. Get job 💵💵💵💵 The Odin Project has some stuff about this at the end of it.
    1. Specialize. Learn an in-demand webdev skill. Um just google “in demand webdev skills”.
    2. Mock interview lmao.
    3. Freelance experience??
+
+Do FreeCodeCamp's Web dev stuff for review if you want. [spaced repetition good 👍👍👍👍👍👍👍](https://www.gwern.net/Spaced-repetition#literature-review)
